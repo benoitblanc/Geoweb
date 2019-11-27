@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+requetes_tourisme.py
+restaurants_in_NY.py
+trip.kml
+fileName.xml
+__pycache__/
